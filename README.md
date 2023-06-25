@@ -18,7 +18,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/kushan meghana">Meghana</a> to make it public
+Project created by <a href="https://github.com/Kushan456">Meghana</a> to make it public
     <br>
        | © |
         Reserved |
