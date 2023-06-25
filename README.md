@@ -14,7 +14,7 @@
 <a href="#"><img title="Meghana" src="https://img.shields.io/badge/KushanMeghana-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ameer-kallumthodi"><img title="kushan" src="https://img.shields.io/badge/Author-kushan-kallumthodi/Meghana?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Kushan456"><img title="kushan" src="https://img.shields.io/badge/Author-kushan-kallumthodi/Meghana?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
